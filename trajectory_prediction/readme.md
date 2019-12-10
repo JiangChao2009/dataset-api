@@ -31,7 +31,7 @@ Submit your result for online evaluation here: [Submit](http://apolloscape.auto/
 Leaderboard: [Leaderboard](http://apolloscape.auto/leader_board.html)
 
 ## Publication
-TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents. [PDF](https://arxiv.org/abs/1811.02146)
+TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents. [Website](http://gamma.cs.unc.edu/TPredict/TrafficPredict.html) [PDF](https://arxiv.org/abs/1811.02146)
 [BibTex](https://ad-apolloscape.cdn.bcebos.com/TrafficPredict/trafficpredict_bibtex.txt)
 
 Yuexin Ma, Xinge Zhu, Sibo Zhang, Ruigang Yang, Wenping Wang, and Dinesh Manocha.
